@@ -1,5 +1,5 @@
 # The Business Problem
-Pawdacity is a leading pet store chain in Wyoming with 13 stores throughout the state. This year, Pawdacity would like to expand and open a 14th store. my manager has asked me to perform an analysis to recommend the city for Pawdacity’s newest store, based on predicted yearly sales.<br>
+Pawdacity is a leading pet store chain in Wyoming with 13 stores throughout the state. This year, Pawdacity would like to expand and open a 14th store. I have been asked me to perform an analysis to recommend the city for Pawdacity’s newest store, based on predicted yearly sales.<br>
 <br>
 # Datasets:
 1- The monthly sales data for all of the Pawdacity stores for the year 2010.<br>
